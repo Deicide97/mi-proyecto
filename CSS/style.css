@@ -73,7 +73,7 @@ body{
     transition: transform 0.3s ease;
     border-bottom: 2px solid #8b0000;
 }
-.lista-detalle {
+.lista-detalles {
     max-width: 800px;
     margin: 30px auto;
     padding: 20px;
@@ -81,14 +81,14 @@ body{
     color: #fff;
     border-radius: 5px;
 }
-.lista-detalle h2 {
+.lista-detalles h2 {
     margin-top: 0;
 }
-.lista-detalle ul {
+.lista-detalles ul {
     list-style-type: square;
     padding-left: 20px;
 }
-.lista-detalle li {
+.lista-detalles li {
     margin-top: 10px;
 }
 .pie-pagina {
